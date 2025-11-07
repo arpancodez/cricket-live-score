@@ -15,7 +15,7 @@ export default function Home() {
     try {
       const response = await fetch('/api/matches/live')
       const data = await response.json()
-      setMatches(data.matches || [])
+      setMatches(data.data || [])
     } catch (error) {
       console.error('Error fetching matches:', error)
     } finally {
