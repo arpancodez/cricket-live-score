@@ -81,3 +81,16 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 This project is open source and available under the MIT License.
+
+
+---
+
+## 🔴 Live Data Status
+
+**Last Updated**: November 7, 2025, 1:00 PM IST
+
+✅ **API Connected**: Real cricket data is being fetched
+✅ **Currently Showing**: India A vs South Africa A (Live Test Match)
+✅ **Auto-Refresh**: Every 30 seconds
+
+For setup instructions, see [API_SETUP.md](API_SETUP.md)
