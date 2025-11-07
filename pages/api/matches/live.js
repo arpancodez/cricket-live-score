@@ -1,4 +1,4 @@
-pages/api/matches/live.js  export default async function handler(req, res) {
+export default async function handler(req, res) {
   const sampleMatches = [
     {
       matchType: 'T20',
