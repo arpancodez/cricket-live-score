@@ -94,3 +94,17 @@ This project is open source and available under the MIT License.
 ✅ **Auto-Refresh**: Every 30 seconds
 
 For setup instructions, see [API_SETUP.md](API_SETUP.md)
+
+
+## System Requirements
+
+- Node.js 14+ 
+- Modern browser with JavaScript enabled
+- Internet connection for real-time score updates
+
+## Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
